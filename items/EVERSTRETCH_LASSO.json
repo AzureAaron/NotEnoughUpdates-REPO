@@ -28,6 +28,24 @@
   "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament nogitversion+mc26.2",
-  "infoType": "",
-  "info": []
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Everstretch_Lasso"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_VINESAP:1",
+      "A3": "ENCHANTED_VINESAP:1",
+      "B1": "",
+      "B2": "ENTANGLER_LASSO:1",
+      "B3": "ENCHANTED_VINESAP:1",
+      "C1": "MANGCORE:8",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "EVERSTRETCH_LASSO"
+    }
+  ]
 }

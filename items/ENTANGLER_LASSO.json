@@ -24,6 +24,24 @@
   "clickcommand": "",
   "crafttext": "",
   "modver": "Firmament nogitversion+mc26.2",
-  "infoType": "",
-  "info": []
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Entangler_Lasso"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "VINESAP:32",
+      "A3": "VINESAP:32",
+      "B1": "",
+      "B2": "VINERIP_LASSO:1",
+      "B3": "VINESAP:32",
+      "C1": "MANGCORE:1",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENTANGLER_LASSO"
+    }
+  ]
 }

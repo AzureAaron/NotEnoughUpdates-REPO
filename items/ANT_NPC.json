@@ -15,5 +15,55 @@
   "island": "foraging_3",
   "x": -616,
   "y": 75,
-  "z": 208
+  "z": 208,
+  "recipes": [
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_ACACIA_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_ACACIA_12:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_BIRCH_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_BIRCH_12:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_DARK_OAK_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_DARK_OAK_12:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_JUNGLE_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_JUNGLE_12:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_OAK_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_OAK_12:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:2000000.0",
+        "ENCHANTED_SPRUCE_LOG:1024.0"
+      ],
+      "result": "GENERATOR_UPGRADE_STONE_SPRUCE_12:1"
+    }
+  ]
 }

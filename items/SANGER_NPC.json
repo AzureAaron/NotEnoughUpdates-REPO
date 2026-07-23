@@ -15,5 +15,42 @@
   "island": "foraging_3",
   "x": -527,
   "y": 97,
-  "z": 218
+  "z": 218,
+  "recipes": [
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:250000.0"
+      ],
+      "result": "ATTRIBUTE_SHARD_VISITOR_PLANT;1:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:250000.0"
+      ],
+      "result": "ATTRIBUTE_SHARD_FLEXIBLE_FISHER;1:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "result": "ATTRIBUTE_SHARD_ARTHROPOD_FORTUNE;1:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "result": "ATTRIBUTE_SHARD_BATTLE_TRACKER;1:1"
+    },
+    {
+      "type": "npc_shop",
+      "cost": [
+        "SKYBLOCK_COIN:750000.0"
+      ],
+      "result": "ATTRIBUTE_SHARD_SLAYER_PROGRESS;1:1"
+    }
+  ]
 }
